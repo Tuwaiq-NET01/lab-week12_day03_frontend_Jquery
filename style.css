@@ -1,8 +1,13 @@
+:root {
+    --white: #fff;
+}
+
 .item {
     width: 150px;
     margin: 10px;
     padding: 10px;
     background-color: gainsboro
+    background-color: var(--white);
 }
 
 .cancel {
