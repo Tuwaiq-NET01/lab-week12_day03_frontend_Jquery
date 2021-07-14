@@ -2,11 +2,38 @@
     width: 150px;
     margin: 10px;
     padding: 10px;
-    background-color: gainsboro
+    background-color: gainsboro;
+    border-radius: 10px;
 }
 
 .cancel {
     width: 15px;
     float: right;
-    color: red
+    color: red;
+    cursor: pointer;
+}
+.contanier{
+    width: 100%;
+    margin: auto;
+}
+
+button{
+    background: black;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+input[type=text]{
+    border: solid 1px #ccc;
+    border-radius: 10px;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+#add-container{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
