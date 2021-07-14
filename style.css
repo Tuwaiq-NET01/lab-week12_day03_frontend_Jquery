@@ -1,12 +1,16 @@
 .item {
-    width: 150px;
+    width: max-content;
     margin: 10px;
     padding: 10px;
-    background-color: gainsboro
+    background-color: gainsboro;
+  
+    
 }
 
 .cancel {
     width: 15px;
     float: right;
-    color: red
+    color: red;
+    font-weight: bold;
+
 }
