@@ -6,6 +6,7 @@
 }
 
 .cancel {
+    cursor: pointer;
     width: 15px;
     float: right;
     color: red
