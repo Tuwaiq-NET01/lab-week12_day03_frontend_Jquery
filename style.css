@@ -1,12 +1,12 @@
 .item {
-    width: 150px;
-    margin: 10px;
-    padding: 10px;
-    background-color: gainsboro
+  width: 150px;
+  margin: 10px;
+  padding: 10px;
+  background-color: gainsboro;
 }
 
 .cancel {
-    width: 15px;
-    float: right;
-    color: red
+  width: 15px;
+  float: right;
+  color: red;
 }
