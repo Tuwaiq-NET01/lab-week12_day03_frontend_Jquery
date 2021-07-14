@@ -1,12 +1,38 @@
 .item {
-    width: 150px;
-    margin: 10px;
-    padding: 10px;
-    background-color: gainsboro
+  display: inline-block;
+  width: 300px;
+  min-height: 300px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f27100;
 }
 
 .cancel {
-    width: 15px;
-    float: right;
-    color: red
+  width: 15px;
+  float: right;
+  color: #fff;
+}
+
+button {
+  background-color: #ff0078;; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h3 {
+  text-align: center;
+  color: #f7ff00;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
